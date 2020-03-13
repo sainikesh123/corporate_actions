@@ -1,0 +1,4 @@
+log_path="../cfg"
+logfilename_path="../cfg/corporate_actions"
+binfolder_path="../bin"
+requirements="../lib/requirements.txt"
